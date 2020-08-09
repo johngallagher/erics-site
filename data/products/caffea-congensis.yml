@@ -1,7 +1,11 @@
-title: Coffea Congensis
+title: Coffea Whaaat
 date: 2018-08-12T13:00:49.366Z
 image: /images/uploads/product-01.png
-weight: '0.5'
-price: '12'
-body: >-
-    Hello Eric this is John
+weight: "0.5"
+price: 12
+body: |-
+  ## Hello
+
+  ```
+  Hello this is code
+  ```
